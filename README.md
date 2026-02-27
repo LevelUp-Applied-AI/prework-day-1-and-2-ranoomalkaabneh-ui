@@ -28,3 +28,9 @@ Configure the pull request:
 5. Your TA reviews and merges when everything passes
 
 6. Submit the Pull Request URL in the Text input in your Assignment in TalentLMS.
+## About
+This project is for practicing Git setup and first terminal workflow.
+
+## Setup
+Git was installed and configured using the system terminal.
+All commands were executed from the command line.
