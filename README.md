@@ -26,6 +26,7 @@ Configure the pull request:
 
 4. The autograder runs automatically — check the PR for results
 5. Your TA reviews and merges when everything passes
+Assignment submission branch: pr-01-git-setup
 
 6. Submit the Pull Request URL in the Text input in your Assignment in TalentLMS.
 ## About
