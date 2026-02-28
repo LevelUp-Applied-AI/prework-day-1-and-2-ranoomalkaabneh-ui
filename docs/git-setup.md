@@ -1,8 +1,8 @@
-# Git Setup Log — [Your Name]
+# Git Setup Log — [raneemalkaabneh]
 
 **Program:** AI.SPIRE Pre-Work
-**Date completed:** [YYYY-MM-DD]
-**GitHub username:** [your-github-username]
+**Date completed:** [23\2\2026]
+**GitHub username:** [ranoomalkaabneh-ui]
 
 ---
 
