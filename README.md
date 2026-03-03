@@ -29,6 +29,9 @@ Configure the pull request:
 This assignment was completed using Git and the command line.
 
 6. Submit the Pull Request URL in the Text input in your Assignment in TalentLMS.
+## Assignment Completion
+
+This assignment was completed using Git and the command line.
 ## About
 This project is for practicing Git setup and first terminal workflow.
 
