@@ -44,3 +44,6 @@ After cloning, output of `git status` from inside your repo:
   Your branch is up to date with 'origin/pr-04-compute-debug'.
 
 nothing to commit, working tree clean 
+
+## Submission Note
+This file was updated for PR visibility.
