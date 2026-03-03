@@ -26,9 +26,12 @@ Configure the pull request:
 
 4. The autograder runs automatically — check the PR for results
 5. Your TA reviews and merges when everything passes
-Assignment submission branch: pr-01-git-setup
+This assignment was completed using Git and the command line.
 
 6. Submit the Pull Request URL in the Text input in your Assignment in TalentLMS.
+## Assignment Completion
+
+This assignment was completed using Git and the command line.
 ## About
 This project is for practicing Git setup and first terminal workflow.
 
